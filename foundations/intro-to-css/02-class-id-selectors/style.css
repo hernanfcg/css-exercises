@@ -2,3 +2,8 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
     background-color: rgb(255, 117, 175);
 }
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
