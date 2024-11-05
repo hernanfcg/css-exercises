@@ -31,6 +31,10 @@ body {
 }
 
 button {
+  display: inline-block;
+  font-size: 45px;
   background: white;
   border: 1px solid #eee;
+  margin: 5px 400px;
+  padding: 10px 30px 10px;
 }
