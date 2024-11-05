@@ -16,7 +16,10 @@ body {
 }
 
 .content {
+  font-size: 45px;
   background: #e3f4ff;
+  padding: 20px 10px;
+  margin-bottom: 15px;
 }
 
 .button-container {
