@@ -4,9 +4,9 @@ body {
 }
 
 .card {
-  width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: 16px 64px;
+  padding: 20px 15px 15px;
 }
 
 .title {
