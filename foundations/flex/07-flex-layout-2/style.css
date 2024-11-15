@@ -24,9 +24,10 @@ a {
 
 .header {
   height: 72px;
-  line-height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  align-items: center;
   font-size: 32px;
   font-weight: 900;
   padding-left: 16px;
@@ -36,8 +37,9 @@ a {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  line-height: 72px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
