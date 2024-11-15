@@ -6,6 +6,22 @@ body {
   flex-direction: column;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
+
 .header {
   height: 72px;
   line-height: 72px;
@@ -28,6 +44,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  padding: 16px;
 }
 
 .card {
